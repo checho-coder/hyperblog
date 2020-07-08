@@ -3,3 +3,5 @@ Esta es mi primera practica de git por mi mismo
 Soy Sergio Calderon
 
 Soy desarrollador Frontend
+
+trabaja para firts factory
