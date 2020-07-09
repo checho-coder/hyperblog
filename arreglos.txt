@@ -1,0 +1,5 @@
+Titulo del documentos
+
+vamos a probar haciendo unos commits
+
+En este momento no se ha usado el reset --hard
