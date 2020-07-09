@@ -5,3 +5,5 @@ vamos a probar haciendo unos commits
 En este momento no se ha usado el reset --hard
 
 Sergio empezó hoy el curso de bootstrap4
+
+Pronto aplicará a first factory
